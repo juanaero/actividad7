@@ -1,0 +1,182 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/118/570/non_2x/vector-neuron-background.jpg); 
+
+
+}
+.portada{
+margin-left: 25%;
+margin-top: -15%;
+color: rgb(204, 201, 13);
+
+}
+
+.box img{
+margin-right: 35%;
+
+}
+
+.box1 img{
+
+margin-left: 36%;
+margin-top: -80%;
+margin-bottom:-35% ;
+
+}  
+
+
+.menu{
+
+margin-top: 1%;
+margin-bottom: 20%;
+
+
+}
+
+
+.seccion1{
+
+    display: flex ;
+    justify-content: center;
+    align-items: flex-end;
+    color: cornsilk;
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-right: 25%;
+  
+
+}
+ 
+.articulo1{
+
+text-align: center;
+font-size: 20px;
+color: cornsilk;
+
+}
+
+
+.seccion1 p {
+
+padding: 200px;
+text-align: justify;
+margin-top: -200px;
+color: cornsilk;
+
+
+
+}
+
+.video1{
+
+margin-top: 150px;
+text-align: center;
+
+
+}
+.seccion2{
+
+    display: flex ;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 25px;
+    text-align: justify;
+    text-align: center;
+    font-size: 23px;
+    color: cornsilk;
+   
+
+}
+
+.articulo2{
+
+text-align: center;
+text-align: justify;
+text-align: center;
+
+
+}
+
+
+.seccion2 p {
+
+padding: 200px;
+text-align: justify;
+margin-top: -25px;
+text-align: 25%;
+text-align: justify;
+text-align: center;
+}
+
+h3{
+margin-top: 35px;
+text-align: justify;
+text-align: center;
+
+
+}
+
+
+h2{
+
+margin-top: 55px;
+margin-bottom: -125px;
+
+}
+.video2{
+
+    margin-top: -200px;
+}
+
+.video3{
+
+ margin-top: -200px;
+        
+ }
+.video4{
+
+ margin-top: -200px;
+ }
+.video5{
+
+margin-top: -200px;
+}
+.video6{
+
+margin-top: -200px;
+}
+.video7{
+
+    margin-top: -200px;
+}
+.container1{
+
+background: wheat;
+
+}
+h3{
+
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: yellowgreen;
+    
+    }
+    .sociales{
+    
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    
+    }
+    .sociales li{
+    
+    display: inline-block;
+    }
+    .sociales li a{
+    
+    padding:10px;
+    
+    }
